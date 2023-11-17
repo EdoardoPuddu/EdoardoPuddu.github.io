@@ -1,11 +1,14 @@
 title: Edoardo Puddu # your name (or website title) here
 logo: "/images/profile_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+As a MSc in Applied Mathematics with a passion for data analysis, I bring a rigorous and analytical mindset to everything I do. 
+
+Driven by a desire to constantly learn and improve, I approach challenges with an open mind and a willingness to explore new ideas. 
+I believe that data is key to making informed decisions, and I am dedicated to using my expertise in math and statistics to drive 
+meaningful change in my work.
+ 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/edoardo-puddu">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
