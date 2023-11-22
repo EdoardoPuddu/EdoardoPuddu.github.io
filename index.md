@@ -6,7 +6,7 @@
 
 [Crop dataset: data exploration and forecasting using Random Forest](crop-prediction-data-exp-and-forecasting.html)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Nice plot.png?raw=true"/>
 
 
 
