@@ -5,6 +5,7 @@
 ### Machine Learning Projects
 
 [Crop dataset: data exploration and forecasting using Random Forest](crop-prediction-data-exp-and-forecasting.html)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
