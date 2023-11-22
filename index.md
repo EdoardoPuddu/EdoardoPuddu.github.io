@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title]((https://www.kaggle.com/code/edoardopuddu/crop-prediction-data-exp-and-forecasting?kernelSessionId=151165671))
+[Project 1 Title](crop-prediction-data-exp-and-forecasting.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
